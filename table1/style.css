@@ -1,0 +1,125 @@
+thead{
+    background-color: blueviolet;
+}
+
+tbody{
+    background-color: chartreuse;
+}
+
+tfoot{
+    background-color: burlywood;
+}
+
+
+table{
+    border: 4px solid purple;
+    width: 100%;
+  
+}
+td,th{
+    border: 2px solid lightslategray;
+    font-size: 1.5rem;
+    border-radius: 10px;
+
+}
+
+td{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    
+
+}
+
+
+h1{
+    position: relative;
+    left: 400px;
+    background-color: darkblue;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+thead{
+    background-color: blueviolet;
+}
+
+tbody{
+    background-color: chartreuse;
+}
+
+tfoot{
+    background-color: burlywood;
+}
+
+
+table, th, td {
+    border: 1px solid;
+  }
+
+td{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    border: 1px solid;
+
+}
+
+
+h1{
+    position: relative;
+    left: 400px;
+    background-color: darkblue;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+thead{
+    background-color: blueviolet;
+}
+
+tbody{
+    background-color: chartreuse;
+}
+
+tfoot{
+    background-color: burlywood;
+}
+
+
+table {
+    border-collapse: collapse;
+  }
+
+td{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    
+
+}
+
+
+h1{
+    position: relative;
+    left: 400px;
+    background-color: darkblue;
+    display: inline-block;
+}
+
+
+
+
+
